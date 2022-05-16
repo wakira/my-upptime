@@ -22,10 +22,10 @@
     "url": "https://matrix.a64.work",
     "icon": "https://favicons.githubusercontent.com/matrix.a64.work",
     "slug": "matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 875,
@@ -33,14 +33,16 @@
     "timeWeek": 969,
     "timeMonth": 875,
     "timeYear": 875,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 2
+    }
   },
   {
     "name": "Librephotos",
     "url": "https://photos.a64.work",
     "icon": "https://favicons.githubusercontent.com/photos.a64.work",
     "slug": "librephotos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 571,
     "timeMonth": 551,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   }
 ]
