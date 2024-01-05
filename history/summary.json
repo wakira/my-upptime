@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 80,
-    "timeWeek": 118,
-    "timeMonth": 213,
-    "timeYear": 194,
+    "time": 198,
+    "timeDay": 372,
+    "timeWeek": 157,
+    "timeMonth": 205,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
     "status": "down",
-    "uptime": "91.60%",
+    "uptime": "91.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.37%",
-    "uptimeYear": "87.84%",
-    "time": 907,
+    "uptimeMonth": "6.08%",
+    "uptimeYear": "87.56%",
+    "time": 906,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 589,
-    "timeYear": 922,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2024-01-04": 31,
+      "2024-01-05": 31,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -94,8 +95,7 @@
       "2023-01-28": 27,
       "2023-01-23": 41,
       "2023-01-07": 592,
-      "2023-01-06": 1440,
-      "2023-01-05": 1374
+      "2023-01-06": 1440
     }
   },
   {
@@ -104,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
     "status": "up",
-    "uptime": "93.32%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "12.56%",
+    "uptime": "93.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "26.84%",
     "uptimeMonth": "45.15%",
     "uptimeYear": "90.77%",
     "time": 656,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 521,
-    "timeYear": 697,
+    "timeDay": 862,
+    "timeWeek": 717,
+    "timeMonth": 553,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2024-01-03": 205,
       "2024-01-02": 1440,
@@ -163,8 +163,7 @@
       "2023-02-15": 141,
       "2023-01-23": 354,
       "2023-01-07": 586,
-      "2023-01-06": 1440,
-      "2023-01-05": 1373
+      "2023-01-06": 1440
     }
   }
 ]
