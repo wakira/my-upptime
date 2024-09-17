@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 279,
-    "timeWeek": 201,
-    "timeMonth": 174,
-    "timeYear": 220,
+    "time": 213,
+    "timeDay": 247,
+    "timeWeek": 222,
+    "timeMonth": 178,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
     "status": "up",
-    "uptime": "88.03%",
+    "uptime": "88.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.27%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "76.75%",
-    "time": 897,
-    "timeDay": 596,
-    "timeWeek": 893,
-    "timeMonth": 862,
-    "timeYear": 830,
+    "time": 896,
+    "timeDay": 633,
+    "timeWeek": 852,
+    "timeMonth": 856,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2024-09-05": 62,
       "2024-08-22": 84,
@@ -136,8 +136,7 @@
       "2023-11-16": 1069,
       "2023-11-13": 290,
       "2023-09-29": 70,
-      "2023-09-28": 244,
-      "2023-09-18": 145
+      "2023-09-28": 244
     }
   },
   {
@@ -146,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
     "status": "up",
-    "uptime": "90.19%",
+    "uptime": "90.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.12%",
+    "uptimeMonth": "47.39%",
     "uptimeYear": "82.02%",
     "time": 579,
-    "timeDay": 366,
-    "timeWeek": 483,
-    "timeMonth": 512,
+    "timeDay": 377,
+    "timeWeek": 458,
+    "timeMonth": 505,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2024-09-05": 148,
@@ -240,8 +239,7 @@
       "2023-11-16": 1068,
       "2023-11-13": 290,
       "2023-09-29": 70,
-      "2023-09-28": 243,
-      "2023-09-18": 145
+      "2023-09-28": 243
     }
   }
 ]
