@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 372,
-    "timeWeek": 241,
+    "timeDay": 77,
+    "timeWeek": 225,
     "timeMonth": 208,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
     "status": "down",
-    "uptime": "88.13%",
+    "uptime": "88.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.84%",
-    "uptimeMonth": "81.41%",
-    "uptimeYear": "75.41%",
+    "uptimeWeek": "38.58%",
+    "uptimeMonth": "78.13%",
+    "uptimeYear": "75.14%",
     "time": 893,
     "timeDay": 0,
-    "timeWeek": 710,
-    "timeMonth": 824,
-    "timeYear": 838,
+    "timeWeek": 756,
+    "timeMonth": 811,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2024-11-11": 40,
+      "2024-11-12": 38,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -145,8 +146,7 @@
       "2023-11-19": 778,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1069,
-      "2023-11-13": 290
+      "2023-11-16": 1069
     }
   },
   {
@@ -155,18 +155,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
     "status": "down",
-    "uptime": "90.17%",
+    "uptime": "90.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.85%",
-    "uptimeMonth": "81.41%",
-    "uptimeYear": "80.68%",
+    "uptimeWeek": "38.58%",
+    "uptimeMonth": "78.13%",
+    "uptimeYear": "80.41%",
     "time": 575,
     "timeDay": 0,
-    "timeWeek": 432,
-    "timeMonth": 537,
-    "timeYear": 597,
+    "timeWeek": 462,
+    "timeMonth": 528,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-11-11": 40,
+      "2024-11-12": 38,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -258,8 +259,7 @@
       "2023-11-19": 778,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1068,
-      "2023-11-13": 290
+      "2023-11-16": 1068
     }
   }
 ]
