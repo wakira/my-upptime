@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 203,
-    "timeWeek": 178,
-    "timeMonth": 185,
-    "timeYear": 223,
+    "time": 212,
+    "timeDay": 351,
+    "timeWeek": 175,
+    "timeMonth": 182,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -24,13 +24,13 @@
     "slug": "matrix-synapse",
     "status": "up",
     "uptime": "87.53%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.66%",
-    "uptimeYear": "74.04%",
+    "uptimeDay": "50.87%",
+    "uptimeWeek": "7.27%",
+    "uptimeMonth": "64.33%",
+    "uptimeYear": "74.18%",
     "time": 892,
-    "timeDay": 627,
-    "timeWeek": 627,
+    "timeDay": 708,
+    "timeWeek": 708,
     "timeMonth": 798,
     "timeYear": 831,
     "dailyMinutesDown": {
@@ -147,8 +147,7 @@
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
-      "2023-12-07": 792,
-      "2023-11-19": 778
+      "2023-12-07": 792
     }
   },
   {
@@ -158,14 +157,14 @@
     "slug": "librephotos",
     "status": "up",
     "uptime": "89.55%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.66%",
-    "uptimeYear": "79.30%",
+    "uptimeDay": "50.87%",
+    "uptimeWeek": "7.27%",
+    "uptimeMonth": "64.33%",
+    "uptimeYear": "79.44%",
     "time": 576,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 527,
+    "timeDay": 587,
+    "timeWeek": 587,
+    "timeMonth": 526,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2024-11-17": 751,
@@ -262,8 +261,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 751,
-      "2023-12-07": 30,
-      "2023-11-19": 778
+      "2023-12-07": 30
     }
   }
 ]
