@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 102,
-    "timeWeek": 274,
-    "timeMonth": 222,
+    "timeDay": 138,
+    "timeWeek": 249,
+    "timeMonth": 223,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
     "status": "up",
-    "uptime": "89.41%",
+    "uptime": "89.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.43%",
     "time": 849,
-    "timeDay": 911,
-    "timeWeek": 826,
-    "timeMonth": 880,
+    "timeDay": 937,
+    "timeWeek": 831,
+    "timeMonth": 885,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2025-06-09": 46,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
     "status": "up",
-    "uptime": "90.97%",
+    "uptime": "90.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.86%",
+    "uptimeYear": "90.13%",
     "time": 537,
-    "timeDay": 565,
-    "timeWeek": 532,
-    "timeMonth": 545,
+    "timeDay": 551,
+    "timeWeek": 533,
+    "timeMonth": 547,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-06-09": 46,
@@ -131,8 +131,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   }
 ]
