@@ -4,18 +4,20 @@
     "url": "https://a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/a64.work.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 100,
-    "timeWeek": 171,
-    "timeMonth": 173,
+    "timeDay": 162,
+    "timeWeek": 178,
+    "timeMonth": 175,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Matrix Synapse",
@@ -26,7 +28,7 @@
     "uptime": "88.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.55%",
+    "uptimeMonth": "79.04%",
     "uptimeYear": "91.55%",
     "time": 851,
     "timeDay": 852,
@@ -85,7 +87,7 @@
     "uptime": "90.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.59%",
+    "uptimeMonth": "79.07%",
     "uptimeYear": "91.56%",
     "time": 537,
     "timeDay": 554,
