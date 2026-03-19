@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 218,
-    "timeDay": 135,
-    "timeWeek": 154,
-    "timeMonth": 198,
+    "time": 217,
+    "timeDay": 214,
+    "timeWeek": 172,
+    "timeMonth": 200,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2025-12-19": 37,
@@ -27,14 +27,14 @@
     "slug": "matrix-synapse",
     "status": "up",
     "uptime": "89.08%",
-    "uptimeDay": "76.85%",
+    "uptimeDay": "83.77%",
     "uptimeWeek": "92.91%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "91.05%",
-    "time": 818,
-    "timeDay": 567,
-    "timeWeek": 610,
-    "timeMonth": 659,
+    "uptimeYear": "91.08%",
+    "time": 819,
+    "timeDay": 647,
+    "timeWeek": 606,
+    "timeMonth": 657,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2026-03-18": 302,
@@ -89,8 +89,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -103,11 +102,11 @@
     "uptimeDay": "91.79%",
     "uptimeWeek": "89.48%",
     "uptimeMonth": "93.90%",
-    "uptimeYear": "90.73%",
+    "uptimeYear": "90.76%",
     "time": 524,
-    "timeDay": 491,
-    "timeWeek": 519,
-    "timeMonth": 481,
+    "timeDay": 476,
+    "timeWeek": 505,
+    "timeMonth": 477,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2026-03-18": 118,
@@ -160,8 +159,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   }
 ]
