@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 217,
-    "timeDay": 81,
-    "timeWeek": 293,
-    "timeMonth": 184,
+    "timeDay": 75,
+    "timeWeek": 255,
+    "timeMonth": 182,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-11-18": 139,
@@ -25,17 +25,17 @@
     "url": "https://matrix.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
-    "status": "up",
-    "uptime": "87.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "23.69%",
-    "uptimeYear": "82.30%",
-    "time": 798,
-    "timeDay": 2360,
-    "timeWeek": 1429,
-    "timeMonth": 1419,
-    "timeYear": 785,
+    "status": "down",
+    "uptime": "87.70%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "26.98%",
+    "uptimeYear": "82.31%",
+    "time": 799,
+    "timeDay": 1613,
+    "timeWeek": 1481,
+    "timeMonth": 1438,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2025-08-27": 178,
       "2025-08-26": 1226,
@@ -122,7 +122,8 @@
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
-      "2026-04-29": 356
+      "2026-04-29": 356,
+      "2026-06-10": 5
     }
   },
   {
@@ -130,16 +131,16 @@
     "url": "https://photos.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
-    "status": "up",
-    "uptime": "88.33%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "88.34%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "23.69%",
-    "uptimeYear": "81.88%",
+    "uptimeMonth": "26.99%",
+    "uptimeYear": "81.89%",
     "time": 512,
-    "timeDay": 623,
-    "timeWeek": 437,
-    "timeMonth": 457,
+    "timeDay": 565,
+    "timeWeek": 461,
+    "timeMonth": 468,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-08-27": 178,
@@ -225,7 +226,8 @@
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
-      "2026-04-29": 356
+      "2026-04-29": 356,
+      "2026-06-10": 0
     }
   }
 ]
