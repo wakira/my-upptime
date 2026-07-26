@@ -25,11 +25,11 @@
     "url": "https://matrix.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
-    "status": "up",
-    "uptime": "87.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "87.41%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "79.48%",
     "time": 845,
     "timeDay": 1353,
@@ -133,7 +133,8 @@
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
-      "2026-06-10": 1325
+      "2026-06-10": 1325,
+      "2026-07-26": 15
     }
   },
   {
@@ -141,11 +142,11 @@
     "url": "https://photos.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
-    "status": "up",
+    "status": "down",
     "uptime": "88.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "79.06%",
     "time": 517,
     "timeDay": 451,
@@ -247,7 +248,8 @@
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
-      "2026-06-10": 1320
+      "2026-06-10": 1320,
+      "2026-07-26": 10
     }
   },
   {
@@ -255,27 +257,29 @@
     "url": "https://ab.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/ab.a64.work.ico",
     "slug": "astr-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 518,
     "timeDay": 480,
     "timeWeek": 550,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 5
+    }
   },
   {
     "name": "NapCat",
     "url": "https://nc.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/nc.a64.work.ico",
     "slug": "nap-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -284,6 +288,8 @@
     "timeWeek": 1626,
     "timeMonth": 1526,
     "timeYear": 1526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 0
+    }
   }
 ]
