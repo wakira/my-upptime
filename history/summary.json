@@ -25,11 +25,11 @@
     "url": "https://matrix.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.a64.work.ico",
     "slug": "matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "87.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "79.39%",
     "time": 888,
     "timeDay": 1359,
@@ -135,7 +135,8 @@
       "2026-07-27": 74,
       "2026-07-26": 1162,
       "2026-07-31": 71,
-      "2026-07-30": 560
+      "2026-07-30": 560,
+      "2026-09-09": 15
     }
   },
   {
@@ -143,12 +144,12 @@
     "url": "https://photos.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/photos.a64.work.ico",
     "slug": "librephotos",
-    "status": "up",
+    "status": "down",
     "uptime": "88.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "78.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "78.98%",
     "time": 513,
     "timeDay": 450,
     "timeWeek": 533,
@@ -251,7 +252,8 @@
       "2026-07-27": 74,
       "2026-07-26": 1157,
       "2026-07-31": 5,
-      "2026-07-30": 555
+      "2026-07-30": 555,
+      "2026-09-09": 10
     }
   },
   {
@@ -259,12 +261,12 @@
     "url": "https://ab.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/ab.a64.work.ico",
     "slug": "astr-bot",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.27%",
     "time": 516,
     "timeDay": 465,
     "timeWeek": 476,
@@ -274,7 +276,8 @@
       "2026-07-27": 74,
       "2026-07-26": 1152,
       "2026-07-31": 5,
-      "2026-07-30": 550
+      "2026-07-30": 550,
+      "2026-09-09": 5
     }
   },
   {
@@ -282,12 +285,12 @@
     "url": "https://nc.a64.work",
     "icon": "https://icons.duckduckgo.com/ip3/nc.a64.work.ico",
     "slug": "nap-cat",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 1432,
     "timeDay": 1344,
     "timeWeek": 1454,
@@ -297,7 +300,8 @@
       "2026-07-27": 74,
       "2026-07-26": 1147,
       "2026-07-31": 5,
-      "2026-07-30": 545
+      "2026-07-30": 545,
+      "2026-09-09": 0
     }
   }
 ]
